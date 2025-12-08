@@ -3,10 +3,14 @@
 </div>
 <div align="center">
 
-# Hi , I'm Thushani Wanigasinghe 
+# Hi , I'm Thushani Wanigasinghe <br>
+<div align="center">
+ <kbd>  -Undergraduate Software Engineer-  <br></kbd>
+</div>
 
-### | Undergraduate Software Engineer | <br>
-Open University of Sri Lanka
+
+
+###### 🚀 Welcome to my workshop! Feel free to peek under the hood of my projects!<br>Code Enthusiast building cool projects and solving problems. ✨
 
 </div>
 
@@ -31,7 +35,7 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 <div align="center">
   <img 
     src="https://img.shields.io/badge/Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white"
-    style="transform: scale(1.3); padding-left:25px; padding-right:25px;"
+    style="transform: scale(1.3); padding-left:85px; padding-right:85px;"
   />
 
 
