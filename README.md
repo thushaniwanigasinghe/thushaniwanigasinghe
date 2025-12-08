@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Thushani Wanigasinghe]
+# Hi there! 👋 I'm [Your Name]
 
 ## 🚀 About Me
 I'm a passionate [Your Role] with [X] years of experience in [Your Field]. I love building [type of projects] and contributing to open source.
