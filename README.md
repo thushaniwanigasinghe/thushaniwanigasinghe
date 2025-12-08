@@ -14,7 +14,7 @@ Open University of Sri Lanka
 
 ---
 
-##  About Me
+## 💡 About Me
 
 I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at the **Open University of Sri Lanka**.I have hands-on experience across multiple technologies including **HTML, CSS, C, Java, ASP.Net, React.js, Node.js, and React Native**.I am passionate about crafting **intuitive, modern, and impactful web and mobile applications**. My focus is on building solutions that blend **strong technical performance** with **meaningful user experience**, while continuously expanding my skills to contribute to innovative technological progress.
 
