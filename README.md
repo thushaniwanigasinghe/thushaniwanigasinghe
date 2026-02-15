@@ -1,19 +1,17 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=thushaniwanigasinghe&label=Profile%20views&color=000000&labelColor=333333&style=for-the-badge" alt="Profile Views" width="125" />
 </div>
+
 <div align="center">
-  <img src="https://github.com/thushaniwanigasinghe/thushaniwanigasinghe/blob/main/Banner.png?raw=true" width="100%" alt="Banner" />
+  <img src="https://github.com/thushaniwanigasinghe/thushaniwanigasinghe/blob/main/BANNER.png?raw=true" width="100%" alt="Banner" />
   <br/>
-  <img src="https://raw.githubusercontent.com/ABS-101/ABS-101/master/animations/girl-coding.gif" width="150px" /> 
 </div>
+
 <div align="center">
-
-
 
 ###### 🚀 Welcome to my workshop! Feel free to peek under the hood of my projects!<br>Code Enthusiast building cool projects and solving problems. ✨
 
 </div>
-
 
 ---
 
