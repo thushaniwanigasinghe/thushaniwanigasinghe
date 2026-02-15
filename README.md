@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=thushaniwanigasinghe&label=Profile%20views&color=000000&labelColor=333333&style=for-the-badge" alt="Profile Views" width="125" />
 </div>
 <div align="center">
-  <img src="https://github.com/thushaniwanigasinghe/thushaniwanigasinghe/blob/main/Profile%20Banner.png?raw=true" width="100%" alt="Banner" />
+  <img src="https://github.com/thushaniwanigasinghe/thushaniwanigasinghe/blob/main/Banner.png?raw=true" width="100%" alt="Banner" />
   <br/>
   <img src="https://raw.githubusercontent.com/ABS-101/ABS-101/master/animations/girl-coding.gif" width="150px" /> 
 </div>
