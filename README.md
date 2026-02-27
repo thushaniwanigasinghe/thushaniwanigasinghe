@@ -34,15 +34,15 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 
 <p align="center">
   <a href="https://github.com/thushaniwanigasinghe">
-    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/thushaniwanigasinghe">
-    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
 </p>
 
 ---
