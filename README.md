@@ -15,13 +15,13 @@
 
 ---
 
-## 💡 About Me
+## 👩‍💻 About Me
 
 I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at the **Open University of Sri Lanka**. I have hands-on experience across multiple technologies including **HTML, CSS, C, Java, ASP.Net, React.js, Node.js, and React Native**. I am passionate about crafting **intuitive, modern, and impactful web and mobile applications**. My focus is on building solutions that blend **strong technical performance** with **meaningful user experience**, while continuously expanding my skills to contribute to innovative technological progress.
 
 ---
 
-## 💡 Core Focus
+## 🎯 Core Focus
 
 * **Full-Stack Development (MERN/MEAN):** Building scalable solutions from database to UI.
 * **Mobile Applications:** Expertise in React Native for cross-platform development.
@@ -30,10 +30,27 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 
 ---
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+
+
 <div align="center">
-  <img 
-    src="https://img.shields.io/badge/Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/💻Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white" />
 
 ### Primary Languages
 | HTML5 | CSS3 | JavaScript | C | Java |
@@ -55,7 +72,7 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=xcode" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=xcode" width="80%" />
 </p>
 
 ---
