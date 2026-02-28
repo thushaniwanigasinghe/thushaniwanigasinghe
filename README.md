@@ -46,7 +46,7 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 </p>
 
 <p align="center">
- <img height="275em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=material-palenight" width="100%" />
+ <img height="275em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=material-palenight" width="80%" />
 
 </p>
 
