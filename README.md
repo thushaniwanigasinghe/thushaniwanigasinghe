@@ -27,8 +27,31 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 * **Mobile Applications:** Expertise in React Native for cross-platform development.
 * **User Experience (UX):** Prioritizing intuitive and impactful application design.
 * **Continuous Learning:** Dedicated to adopting new technologies and best practices.
-  
+
 ---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+ <img height="275em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=material-palenight" width="100%" />
+
+</p>
+
+---
+
 ## 🛠️ Skills & Expertise
 <div align="center">
   
@@ -52,39 +75,17 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 
 ---
 
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/thushaniwanigasinghe">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/thushaniwanigasinghe">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
- <img height="195em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=material-palenight" width="90%" />
-
-</p>
-
----
-
 
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/thushaniwanigasinghe" target="_blank">
+  <a href="https://github.com/thushaniwanigasinghe" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="23"/>
-  </a><a href="https://linkedin.com/in/thushaniwanigasinghe" target="_blank">
+  </a><a href="https://linkedin.com/in/thushaniwanigasinghe" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23"/>
-  </a><a href="https://www.facebook.com/thushani.wanigasinghe" target="_blank">
+  </a><a href="https://www.facebook.com/thushani.wanigasinghe" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="23"/>
-  </a><a href="thushanimalsha42@gmail.com" target="_blank">
+  </a><a href="thushanimalsha42@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23"/>
   </a>
 </p>
