@@ -45,9 +45,12 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
 </p>
 
+
+<p align="center">
+  <img height="185em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=xcode" width="80%" />
+</p>
+
 ---
-
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/💻Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white" />
@@ -67,29 +70,27 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /> |
 
----
 
-## 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=xcode" width="80%" />
-</p>
 
 ---
 
-## 📫 Connect With Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Connect With Me
 
-<div align="center">
-  <a href="mailto:thushaniwanigasinghe@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/thushaniwanigasinghe">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+<a href="https://github.com/thushaniwanigasinghe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" />
+</a> &nbsp;
+<a href="https://linkedin.com/in/thushaniwanigasinghe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="35" />
+</a> &nbsp;
+<a href="https://www.facebook.com/thushani.wanigasinghe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="35" />
+</a> &nbsp;
+<a href="mailto:thushaniwanigasinghe@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" />
+</a>
 
 <br/>
 
-<div align="center">
-  <h3>Thanks for visiting! Happy Coding! 🚀</h3>
+#### ✨ Thanks for visiting! Let's build something amazing together! 🚀
+
 </div>
