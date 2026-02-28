@@ -29,8 +29,9 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 * **Continuous Learning:** Dedicated to adopting new technologies and best practices.
   
 ---
+## 🛠️ Skills & Expertise
 <div align="center">
-  <img src="https://img.shields.io/badge/💻Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white" />
+  
 
 ### Primary Languages
 | HTML5 | CSS3 | JavaScript | C | Java |
@@ -51,14 +52,14 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/thushaniwanigasinghe">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/thushaniwanigasinghe">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
