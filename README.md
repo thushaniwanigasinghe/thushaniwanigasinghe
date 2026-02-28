@@ -27,31 +27,8 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 * **Mobile Applications:** Expertise in React Native for cross-platform development.
 * **User Experience (UX):** Prioritizing intuitive and impactful application design.
 * **Continuous Learning:** Dedicated to adopting new technologies and best practices.
-
+  
 ---
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/thushaniwanigasinghe">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/thushaniwanigasinghe">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
-</p>
-
-
-<p align="center">
-  <img height="185em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=xcode" width="80%" />
-</p>
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/💻Skills%20%26%20Expertise-8aff8a?style=for-the-badge&logo=codecademy&logoColor=white" />
 
@@ -70,27 +47,51 @@ I am currently pursuing a **Bachelor of Software Engineering (Hons)** degree at 
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> | <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /> |
 
-
+</div>
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Connect With Me
+### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/thushaniwanigasinghe" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" />
-</a> &nbsp;
-<a href="https://linkedin.com/in/thushaniwanigasinghe" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="35" />
-</a> &nbsp;
-<a href="https://www.facebook.com/thushani.wanigasinghe" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="35" />
-</a> &nbsp;
-<a href="mailto:thushaniwanigasinghe@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" />
-</a>
+<p align="center">
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thushaniwanigasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/thushaniwanigasinghe">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thushaniwanigasinghe&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaniwanigasinghe&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+ <img height="195em" src="https://github-readme-activity-graph.vercel.app/graph?username=thushaniwanigasinghe&theme=material-palenight" width="90%" />
+
+</p>
+
+---
+
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/thushaniwanigasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="23"/>
+  </a><a href="https://linkedin.com/in/thushaniwanigasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23"/>
+  </a><a href="https://www.facebook.com/thushani.wanigasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="23"/>
+  </a><a href="thushanimalsha42@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23"/>
+  </a>
+</p>
 
 <br/>
 
-#### ✨ Thanks for visiting! Let's build something amazing together! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=50&section=footer" width="100%"/>
 
-</div>
+<p align="center">
+  ✨ <b>Thanks for visiting! Let's build something amazing together!</b> 🚀
+</p>
